@@ -30,7 +30,7 @@ services:
     link: link6
 about:
   heading: Heading
-  undefined: Intro
+  intro: Intro
   headingLeft: Left
   descriptionLeft: Left
   headingRight: Right
