@@ -29,11 +29,11 @@ services:
     icon: icon 6
     link: link6
 about:
-    heading: About heading
-    intro: Introduction text about.
-    image: /img/home-jumbotron.jpg
-    headingLeft: Left heading
-    descriptionLeft: Left description.
-    headingRight: Right heading
-    descriptionRight: Right description.
+  heading: Heading
+  undefined: Intro
+  headingLeft: Left
+  descriptionLeft: Left
+  headingRight: Right
+  descriptionRight: right
+  image: /img/home-jumbotron.jpg
 ---
