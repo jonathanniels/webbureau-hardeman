@@ -20,4 +20,12 @@ services:
     description: Description of service 4
     icon: icon 4
     link: link4
+  - heading: Service 5
+    description: Description of service 5.
+    icon: icon 5
+    link: link5
+  - heading: Service 6
+    description: Description of service 6.
+    icon: icon 6
+    link: link6
 ---
