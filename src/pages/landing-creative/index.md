@@ -3,7 +3,7 @@ templateKey: landing-creative
 path: /landing-creative
 title: Webbureau Hardeman
 payoff: Moderne websites en internetmarketing
-service:
+services:
   - heading: Service 1
     description: Description of service 1.
     icon: icon 1
