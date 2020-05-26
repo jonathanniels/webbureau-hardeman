@@ -3,6 +3,7 @@ templateKey: landing-creative
 path: /landing-creative
 title: Webbureau Hardeman
 payoff: Moderne websites en internetmarketing
+headerImage: /img/home-jumbotron.jpg
 services:
   - heading: Service 1
     description: Description of service 1.
