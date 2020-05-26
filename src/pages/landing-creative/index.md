@@ -38,7 +38,7 @@ about:
   descriptionRight: right
   image: /img/home-jumbotron.jpg
 contact:
-  heading: Heading
-  intro: Intro
+  heading: Heading contact
+  intro: Intro contact
   image: /img/home-jumbotron.jpg
 ---
