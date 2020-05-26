@@ -40,6 +40,7 @@ collections:
           - {label: "Header image", name: headerImage, widget: image}
           - {label: Services, name: services, widget: list, fields: [{label: Heading, name: heading, widget: string},{label: Description, name: description, widget: string},{label: Icon, name: icon, widget: string},{label: Link, name: link, widget: string}]}
           - {label: About, name: about, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Intro, name: intro, widget: string}, {label: Image, name: image, widget: image}, {label: Left heading, name: headingLeft, widget: string}, {label: Left description, name: descriptionLeft, widget: string}, {label: Right heading, name: headingRight, widget: string}, {label: Right description, name: descriptionRight, widget: string}]}
+          - {label: Contact, name: contact, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Intro, name: intro, widget: string}, {label: Image, name: image, widget: image}]}
       - file: "src/pages/index.md"
         label: "Landing Page"
         name: "index"

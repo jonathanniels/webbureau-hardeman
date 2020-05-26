@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 const SliderTrydo = ({ title, payoff, headerImage }) => (
     <div class="rn-slider-area" id="home">
         <div class="slider-activation">
-            <div class="bg_image" style={{backgroundImage: "url(" + headerImage.childImageSharp.fluid.src + ")"}} data-black-overlay="6">
+            <div class="bg_image" style={{backgroundImage: "url(" + (typeof headerImage == 'string'?headerImage:headerImage.childImageSharp.fluid.src) + ")"}} data-black-overlay="6">
                 <div class="slide slide-style-2 slider-paralax d-flex align-items-center justify-content-center">
                     <div class="container">
                         <div class="row">

@@ -9,7 +9,7 @@ import AboutTrydo from '../components/AboutTrydo'
 import ContactTrydo from '../components/ContactTrydo'
 
 export const LandingCreativePageTemplate = ({
-    title, payoff, headerImage, services, about
+    title, payoff, headerImage, services, about, contact
 }) => (
     <div>
         <SliderTrydo
@@ -19,7 +19,7 @@ export const LandingCreativePageTemplate = ({
         />
         <ServiceTrydo services={services} />
         <AboutTrydo about={about} />
-        <ContactTrydo />
+        <ContactTrydo contact={contact} />
     </div>
 )
 
@@ -28,7 +28,8 @@ LandingCreativePageTemplate.propTypes = {
   payoff: PropTypes.string,
   headerImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   services: PropTypes.array,
-  about: PropTypes.object
+  about: PropTypes.object,
+  contact: PropTypes.object
 }
 
 const LandingCreativePage = ({ data }) => {
@@ -42,6 +43,7 @@ const LandingCreativePage = ({ data }) => {
         headerImage={frontmatter.headerImage}
         services={frontmatter.services}
         about={frontmatter.about}
+        contact={frontmatter.contact}
       />
     </LayoutTrydo>
   )
@@ -90,6 +92,17 @@ export const pageQuery = graphql`
             descriptionLeft
             headingRight
             descriptionRight
+        }
+        contact {
+            heading
+            intro
+            image {
+              childImageSharp {
+                fluid(maxWidth: 800, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
         }
       }
     }

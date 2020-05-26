@@ -11,13 +11,18 @@ const LandingCreativePagePreview = ({ entry, getAsset }) => {
   const entryAbout = entry.getIn(['data', 'about'])
   const about = entryAbout ? entryAbout.toJS() : {}
 
+  const entryContact = entry.getIn(['data', 'contact'])
+  const contact = entryContact ? entryContact.toJS() : {}
+
   if (data) {
     return (
       <LandingCreativePageTemplate
         title={data.title}
         payoff={data.payoff}
+        headerImage={data.headerImage}
         services={services}
         about={about}
+        contact={contact}
       />
     )
   } else {
