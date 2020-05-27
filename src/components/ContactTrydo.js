@@ -15,6 +15,7 @@ const ContactTrydo = ({ contact }) => (
                         </div>
                         <div class="form-wrapper">
                             <form name="contact2" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+                              <input type="hidden" name="form-name" value="contact2" />
                               <p class="hidden">
                                 <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                               </p>
