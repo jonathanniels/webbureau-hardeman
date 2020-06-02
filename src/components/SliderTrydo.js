@@ -12,7 +12,7 @@ const SliderTrydo = ({ title, payoff, headerImage }) => (
                                 <div class="inner text-center">
                                     <h1 class="title theme-gradient">{title}</h1>
                                     <p class="description">{payoff}</p>
-                                    <div class="slide-btn"><a class="rn-button-style--2 btn-primary-color" href="contact.html">Contact Us</a></div>
+                                    <div class="slide-btn"><a class="rn-button-style--2 btn-primary-color" href="/#contact">Stel uw vraag</a></div>
                                 </div>
                             </div>
                         </div>

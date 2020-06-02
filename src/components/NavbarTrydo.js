@@ -17,7 +17,7 @@ const NavbarTrydo = class extends React.Component {
                     <div class="header-left">
                         <div class="logo">
                             <a href="/">
-                                <img src="/assets/images/logo/logo.png" alt="Webbureau Hardeman" />
+                                {/*<img src="/assets/images/logo/logo.png" alt="Webbureau Hardeman" />*/}
                             </a>
                         </div>
                     </div>
