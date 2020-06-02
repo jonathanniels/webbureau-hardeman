@@ -18,7 +18,7 @@ services:
     icon: icon 3
     link: link3
 about:
-  heading: Webbureau Hardeman bengt u online en bij de tijd
+  heading: Online en bij de tijd
   intro: Tijd voor een moderne nieuwe website of webshop! Om de concurrentie voor
     te blijven kunt u niet meer uit de voeten met de website die uw neefje tien
     jaar geleden maakt geeft. Dat begrijpt Webbureau Hardeman als geen ander.
