@@ -26,9 +26,9 @@ const Footer = class extends React.Component {
                                             <div class="footer-widget">
                                                 <h4>Quick Link</h4>
                                                 <ul class="ft-link">
-                                                    <li><a href="portfolio.html">Work</a></li>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="/#contact">Let's Talk</a></li>
+                                                    <li><a href="#portfolio">Work</a></li>
+                                                    <li><a href="#about">About</a></li>
+                                                    <li><a href="#contact">Let's Talk</a></li>
                                                 </ul>
                                             </div>
                                         </div>
