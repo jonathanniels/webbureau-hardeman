@@ -19,11 +19,15 @@ services:
     link: link3
 about:
   heading: Webbureau Hardeman bengt u online en bij de tijd
-  intro: Intro
-  headingLeft: Left
-  descriptionLeft: Left
-  headingRight: Right
-  descriptionRight: right
+  intro: Tijd voor een moderne nieuwe website of webshop! Om de concurrentie voor
+    te blijven kunt u niet meer uit de voeten met de website die uw neefje tien
+    jaar geleden maakt geeft. Dat begrijpt Webbureau Hardeman als geen ander.
+  headingLeft: Moderne vormgeving
+  descriptionLeft: Kies voor een website die goed werkt op ieder scherm, en zeker
+    op een smartphone!
+  headingRight: Webshop
+  descriptionRight: Direct zaken doen met uw klanten via een webshop. U bent aan
+    het juiste adres!
   image: /img/home-jumbotron.jpg
 contact:
   heading: Contact opnemen
