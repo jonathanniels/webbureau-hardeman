@@ -20,20 +20,20 @@ const ContactTrydo = ({ contact }) => (
                                 <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                               </p>
                                 <label>
-                                    <input type="text" name="name" id="item01" placeholder="Your Name *" />
+                                    <input type="text" name="name" id="item01" placeholder="Uw naam *" />
                                 </label>
 
                                 <label>
-                                    <input type="text" name="email" id="item02" placeholder="Your email *" />
+                                    <input type="text" name="email" id="item02" placeholder="Uw E-mailadres *" />
                                 </label>
 
                                 <label>
-                                    <input type="text" name="subject" id="item03" placeholder="Write a Subject" />
+                                    <input type="text" name="subject" id="item03" placeholder="Onderwerp" />
                                 </label>
                                 <label>
-                                    <textarea id="item04" name="message" placeholder="Your Message"></textarea>
+                                    <textarea id="item04" name="message" placeholder="Uw vraag"></textarea>
                                 </label>
-                                <button class="rn-button-style--2 btn_solid" type="submit" value="submit" name="submit" id="mc-embedded-subscribe">Submit</button>
+                                <button class="rn-button-style--2 btn_solid" type="submit" value="submit" name="submit" id="mc-embedded-subscribe">Verstuur</button>
                             </form>
                         </div>
                     </div>
