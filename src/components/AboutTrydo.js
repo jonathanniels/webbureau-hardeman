@@ -35,7 +35,7 @@ const AboutTrydo = ({ about }) => (
                                 <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                                     <div class="about-us-list">
                                         <h3 class="title">{about.headingRight}</h3>
-                                        <p>{about.headingRight}</p>
+                                        <p>{about.descriptionRight}</p>
                                     </div>
                                 </div>
                             </div>
