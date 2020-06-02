@@ -6,17 +6,17 @@ headerImage: /img/home-jumbotron.jpg
 services:
   - heading: Websites
     description: Moderne nieuwe websites. Fantastische vormgeving en gemakkelijk onderhoud.
-    icon: icon 1
-    link: link 1
+    icon: monitor
+    link: /#contact
   - heading: Webshops
     description: " Online zaken doen met behulp van Shopify."
-    icon: icon 2
-    link: link 2
+    icon: shopping-cart
+    link: /#contact
   - heading: Online marketing
     description: Bereik bestaande en nieuwe klanten. Emailmarketing, social media en
       online advertenties.
-    icon: icon 3
-    link: link3
+    icon: users
+    link: /#contact
 about:
   heading: Online en bij de tijd
   intro: Tijd voor een moderne nieuwe website of webshop! Om de concurrentie voor
