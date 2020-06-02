@@ -12,8 +12,8 @@ const Footer = class extends React.Component {
                                     <div class="inner">
                                         <span>Ready To Do This</span>
                                         <h2>Let's get <br /> to work</h2>
-                                            <a class="rn-button-style--2" href="contact.html">
-                                                <span>Contact Us</span>
+                                            <a class="rn-button-style--2" href="#contact">
+                                                <span>Contact opnemen</span>
                                             </a>
                                     </div>
                                 </div>
@@ -28,7 +28,7 @@ const Footer = class extends React.Component {
                                                 <ul class="ft-link">
                                                     <li><a href="portfolio.html">Work</a></li>
                                                     <li><a href="about.html">About</a></li>
-                                                    <li><a href="contact.html">Let's Talk</a></li>
+                                                    <li><a href="/#contact">Let's Talk</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -37,8 +37,7 @@ const Footer = class extends React.Component {
                                             <div class="footer-widget">
                                                 <h4>Say Hello</h4>
                                                 <ul class="ft-link">
-                                                    <li><a href="mailto:admin@example.com">admin@example.com</a></li>
-                                                    <li><a href="mailto:hr@example.com">hr@example.com</a></li>
+                                                    <li><a href="mailto:jonathanniels@gmail.com">jonathanniels@gmail.com</a></li>
                                                 </ul>
 
                                                 <div class="social-share-inner">
