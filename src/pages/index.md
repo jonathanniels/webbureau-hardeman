@@ -9,7 +9,7 @@ services:
     icon: monitor
     link: /#contact
   - heading: Webshops
-    description: " Online zaken doen met behulp van Shopify."
+    description: " Online zaken doen met behulp van Shopify. Verkoop direct aan uw klanten."
     icon: shopping-cart
     link: /#contact
   - heading: Online marketing
