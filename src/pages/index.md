@@ -33,6 +33,6 @@ contact:
   heading: Contact opnemen
   intro: Wilt u de concurrentie voorblijven met een nieuwe website of webshop?
     Wilt u nieuwe klanten bereiken of bestaande klanten terug laten komen? Stuur
-    een bericht, vragen staan vrij. Webbureau Hardeman maakt graag kennis!
+    een bericht, vragen staat vrij. Webbureau Hardeman maakt graag kennis!
   image: /img/home-jumbotron.jpg
 ---
