@@ -24,10 +24,10 @@ const NavbarTrydo = class extends React.Component {
                     <div class="header-right">
                         <nav class="mainmenunav d-lg-block navbar-example2">
                             <ul class="mainmenu nav nav-pills">
-                                <li class="nav-item"><a class="nav-link smoth-animation active" href="/#home">Home</a></li>
-                                <li class="nav-item"><a class="nav-link smoth-animation" href="/#service">Service</a></li>
-                                <li class="nav-item"><a class="nav-link smoth-animation" href="/#about">About</a></li>
-                                <li class="nav-item"><a class="nav-link smoth-animation" href="/#contact">Contact</a></li>
+                                <li class="nav-item"><a class="nav-link smoth-animation active" href="/">Home</a></li>
+                                <li class="nav-item"><a class="nav-link smoth-animation" href="#service">Diensten</a></li>
+                                <li class="nav-item"><a class="nav-link smoth-animation" href="#about">Meer</a></li>
+                                <li class="nav-item"><a class="nav-link smoth-animation" href="#contact">Contact</a></li>
                             </ul>
                         </nav>
 
