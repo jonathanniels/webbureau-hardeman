@@ -19,7 +19,7 @@ Index All JS
 --------------------------------------------------*/
 
 
-(function ($) {
+jQuery(document).ready(function ($) {
     'use strict';
 
     /*-------------------- 
@@ -290,4 +290,4 @@ Index All JS
 
 
 
-})(jQuery)
+});
