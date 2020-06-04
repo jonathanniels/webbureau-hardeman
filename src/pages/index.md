@@ -7,16 +7,16 @@ services:
   - heading: Websites
     description: Moderne nieuwe websites. Fantastische vormgeving en gemakkelijk onderhoud.
     icon: monitor
-    link: /#contact
+    link: /websites
   - heading: Webshops
     description: " Online zaken doen met behulp van Shopify. Verkoop direct aan uw klanten."
     icon: shopping-cart
-    link: /#contact
+    link: /webshops
   - heading: Online marketing
     description: Bereik bestaande en nieuwe klanten. Emailmarketing, social media en
       online advertenties.
     icon: users
-    link: /#contact
+    link: /internet-marketing
 about:
   heading: Online en bij de tijd
   intro: Tijd voor een moderne nieuwe website of webshop! Om de concurrentie voor
