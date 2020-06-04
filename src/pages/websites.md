@@ -26,7 +26,7 @@ serviceDetails:
     zaken te kunnen doen aanzienlijk. 
 
 
-    Een goede website is als een mooie winkeletalage of een elegant bedrijfspand: het zet de toon en geeft uw klant gelijk een eerste indruk van uw bedrijf. 
+    Een goede website is als een mooie winkeletalage of een elegant bedrijfspand: het zet de toon en geeft uw klant gelijk een eerste indruk van uw bedrijf. Die eerste indruk is vaak leidend in de beslissing van klanten om tot een keuze te komen.
 
 
     Doorpraten over de mogelijkheden? Vraag een vrijblijvend adviesgesprek aan!
