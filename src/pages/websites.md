@@ -8,6 +8,11 @@ breadcrumb:
     te blijven kunt u niet meer uit de voeten met de website die uw neefje tien
     jaar geleden maakt geeft. Dat begrijpt Webbureau Hardeman als geen ander.
   image: /img/home-jumbotron.jpg
+serviceDetails:
+  text1: Online en bij de tijd
+  image1: /img/home-jumbotron.jpg
+  text2: Online en bij de tijd
+  image2: /img/home-jumbotron.jpg
 contact:
   heading: Contact opnemen
   intro: Wilt u de concurrentie voorblijven met een nieuwe website of webshop?

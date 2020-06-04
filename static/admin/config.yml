@@ -33,4 +33,5 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "content-page"}
           - {label: Title, name: title, widget: string}
           - {label: Breadcrumb, name: breadcrumb, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Image, name: image, widget: image}]}
+          - {label: "Service Details", name: serviceDetails, widget: object, fields: [{label: "Text 1", name: text1, widget: markdown},{label: "Image1", name: image1, widget: image},{label: "Text 2", name: text2, widget: markdown},{label: "Image2", name: image2, widget: image}]}
           - {label: Contact, name: contact, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Intro, name: intro, widget: string}, {label: Image, name: image, widget: image}]}

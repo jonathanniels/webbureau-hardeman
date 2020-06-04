@@ -4,13 +4,15 @@ import { graphql } from 'gatsby'
 
 import LayoutTrydo from '../components/LayoutTrydo'
 import Breadcrumb from '../components/Breadcrumb'
+import ServiceDetails from '../components/ServiceDetails'
 import ContactTrydo from '../components/ContactTrydo'
 
 export const ContentPageTemplate = ({
-    title, breadcrumb, contact
+    title, breadcrumb, serviceDetails, contact
 }) => (
     <div>
         <Breadcrumb breadcrumb={breadcrumb} />
+        <ServiceDetails serviceDetails={serviceDetails} />
         <ContactTrydo contact={contact} />
     </div>
 )
@@ -18,6 +20,7 @@ export const ContentPageTemplate = ({
 ContentPageTemplate.propTypes = {
   title: PropTypes.string,
   breadcrumb: PropTypes.object,
+  serviceDetails: PropTypes.object,
   contact: PropTypes.object
 }
 
@@ -29,6 +32,7 @@ const ContentPage = ({ data }) => {
       <ContentPageTemplate
         title={frontmatter.title}
         breadcrumb={frontmatter.breadcrumb}
+        serviceDetails={frontmatter.serviceDetails}
         contact={frontmatter.contact}
       />
     </LayoutTrydo>
@@ -60,6 +64,24 @@ export const pageQuery = graphql`
                 }
               }
             }
+        }
+        serviceDetails {
+          text1
+          image1 {
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }         
+          text2
+          image2 {
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }         
         }
         contact {
             heading

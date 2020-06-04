@@ -7,6 +7,9 @@ const ContentPagePreview = ({ entry, getAsset }) => {
 
   const entryBreadcrumb = entry.getIn(['data', 'breadcrumb'])
   const breadcrumb = entryBreadcrumb ? entryBreadcrumb.toJS() : {}
+ 
+  const entryServiceDetails = entry.getIn(['data', 'serviceDetails'])
+  const serviceDetails = entryServiceDetails ? entryServiceDetails.toJS() : {}
 
   const entryContact = entry.getIn(['data', 'contact'])
   const contact = entryContact ? entryContact.toJS() : {}
@@ -16,6 +19,7 @@ const ContentPagePreview = ({ entry, getAsset }) => {
       <ContentPageTemplate
         title={data.title}
         breadcrumb={breadcrumb}
+        serviceDetails={serviceDetails}
         contact={contact}
       />
     )
