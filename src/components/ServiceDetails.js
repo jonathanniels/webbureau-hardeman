@@ -1,8 +1,19 @@
-import React from 'react'
+import React, {Fragment} from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
+import remark from 'remark'
+import remarkHTML from 'remark-html'
 
-const ServiceDetails = ({ serviceDetails }) => (
+const toHTML = value => remark()
+.use(remarkHTML)
+.processSync(value)
+.toString()
+
+const ServiceDetails = ({ serviceDetails }) => {
+    const text1 = toHTML(serviceDetails.text1);
+    const text2 = toHTML(serviceDetails.text2);
+
+    return (
     <div class="rn-service-details rn-section-gap bg_color--1">
         <div class="container">
             <div class="row">
@@ -21,16 +32,14 @@ const ServiceDetails = ({ serviceDetails }) => (
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-12">
-                                    <div class="details mt_md--30 mt_sm--30">
-                                        {serviceDetails.text1}
+                                    <div class="details mt_md--30 mt_sm--30" dangerouslySetInnerHTML={{__html: text1}}>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="row sercice-details-content align-items-center">
                                 <div class="col-lg-6 col-12 order-2 order-lg-1">
-                                    <div class="details mt_md--30 mt_sm--30">
-                                        {serviceDetails.text2}
+                                    <div class="details mt_md--30 mt_sm--30" dangerouslySetInnerHTML={{__html: text2}}>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-12 order-1 order-lg-2">
@@ -50,7 +59,7 @@ const ServiceDetails = ({ serviceDetails }) => (
             </div>
         </div>
     </div>
-)
+)}
 
 ServiceDetails.propTypes = {
     serviceDetails: PropTypes.shape({

@@ -29,7 +29,8 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^6.0.0",
-    "uuid": "^7.0.0"
+    "uuid": "^7.0.0",
+    "remark-html": "^11.0.2"
   },
   "keywords": [
     "gatsby"
