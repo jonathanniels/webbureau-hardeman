@@ -3,31 +3,33 @@ templateKey: content-page
 path: /websites
 title: Webbureau Hardeman - Moderne websites
 breadcrumb:
-  heading: Online en bij de tijd
-  description: Tijd voor een moderne nieuwe website of webshop! Om de concurrentie
-    voor te blijven kunt u niet meer uit de voeten met de website die uw neefje
-    tien jaar geleden maakt geeft. Dat begrijpt Webbureau Hardeman als geen
-    ander.
+  heading: Moderne websites
+  description: Tijd voor een moderne nieuwe website!
   image: /img/home-jumbotron.jpg
 serviceDetails:
-  text1: |-
-    Markdown gaat hier voor text 1.
+  text1: >-
+    Het is t[ijd voor een nieuwe website die modern oogt en goed werkt op
+    desktop, tablet en telefoon. Vraag Webbureau Hardeman om uw oude website te
+    vervangen.](/websites)
 
-    Volgende paragraaf.
 
-    * bullet 1
-    * bullet 2
+    Met behulp van de nieuwste technieken brengt Webbureau Hardeman uw website bij de tijd. 
 
-    Naar [websites](/websites)
-  text2: |-
-    Markdown gaat hier voor text 2.
 
-    Volgende paragraaf.
+    Netlify is het systeem waar Webbureau Hardeman websites mee bouwt. Met behulp van Netlify wordt het maken en publiceren van pagina's op een eenvoudig en snel proces omdat u de volledig controle heeft over uw eigen website. 
 
-    * bullet 1
-    * bullet 2
 
-    Naar [websites](/websites)
+    Daarnaast zorgt Netlify voor een bloedsnelle gebruikerservaring, en dat wereldwijd. Dit is mogelijk doordat uw website bij iedere wijziging die u aanbrengt wereldwijd gepubliceerd wordt. Ook voor uw internationale klanten een goede ervaring op uw website!
+  text2: >-
+    Een mooie en snelle website is de manier om uw klanten van een goede eerste
+    indruk te voorzien. Een goede ervaring op uw website verhoogt de kans om
+    zaken te kunnen doen aanzienlijk. 
+
+
+    Een goede website is als een mooie winkeletalage of een elegant bedrijfspand: het zet de toon en geeft uw klant gelijk een eerste indruk van uw bedrijf. 
+
+
+    Doorpraten over de mogelijkheden? Vraag een vrijblijvend adviesgesprek aan!
   image1: /img/home-jumbotron.jpg
   image2: /img/flavor_wheel.jpg
 contact:
