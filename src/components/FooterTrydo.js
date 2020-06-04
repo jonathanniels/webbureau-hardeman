@@ -43,9 +43,8 @@ const Footer = class extends React.Component {
                                                 <div class="social-share-inner">
                                                     <ul class="social-share social-style--2 d-flex justify-content-start liststyle mt--15">
                                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                                        <li><a href="https://www.linkedin.com/company/webbureau-hardeman/"><i class="fab fa-linkedin-in"></i></a></li>
                                                         <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                                        <li><a href="#"><i class="fab fa-instagram-square"></i></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -53,7 +52,7 @@ const Footer = class extends React.Component {
 
                                         <div class="col-lg-12">
                                             <div class="copyright-text">
-                                                <p>Copyright © 2020 Rainbow-Themes. All Rights Reserved.</p>
+                                                <p>Copyright © 2020 Webbureau Hardeman. All Rights Reserved.</p>
                                             </div>
                                         </div>
                                     </div>
