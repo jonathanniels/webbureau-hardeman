@@ -21,7 +21,7 @@ about:
   heading: Online en bij de tijd
   intro: Tijd voor een moderne nieuwe website of webshop! Om de concurrentie voor
     te blijven kunt u niet meer uit de voeten met de website die uw neefje tien
-    jaar geleden maakt geeft. Dat begrijpt Webbureau Hardeman als geen ander.
+    jaar geleden gemaakt geeft. Dat begrijpt Webbureau Hardeman als geen ander.
   headingLeft: Moderne vormgeving
   descriptionLeft: Kies voor een website die goed werkt op ieder scherm, en zeker
     op een smartphone!
