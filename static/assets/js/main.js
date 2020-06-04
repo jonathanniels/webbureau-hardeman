@@ -268,10 +268,11 @@ jQuery(document).ready(function ($) {
     ---------------------------------*/
 
     $(document).on('click', '.smoth-animation', function (event) {
-        if(document.getElementById($.attr(this, 'href').replace(/^.*#/, ''))) {
+        var anchor = document.getElementById($.attr(this, 'href').replace(/^.*#/, ''));
+        if(anchor) {
             event.preventDefault();
             $('html, body').animate({
-                scrollTop: $($.attr(this, 'href')).offset().top
+                scrollTop: $(anchor).offset().top
             }, 500);
         }
     });
