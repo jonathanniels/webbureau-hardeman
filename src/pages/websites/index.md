@@ -16,14 +16,14 @@ serviceDetails:
     Met behulp van de nieuwste technieken brengt Webbureau Hardeman uw website bij de tijd. 
 
 
-    Netlify is het systeem waar Webbureau Hardeman websites mee bouwt. Met behulp van Netlify wordt het maken en publiceren van pagina's op een eenvoudig en snel proces omdat u de volledig controle heeft over uw eigen website. 
+    Netlify is het systeem waar Webbureau Hardeman websites mee bouwt. Met behulp van Netlify wordt het maken en publiceren van pagina's een eenvoudig en snel proces omdat het u de volledige controle geeft over uw eigen website. 
 
 
-    Daarnaast zorgt Netlify voor een bloedsnelle gebruikerservaring, en dat wereldwijd. Dit is mogelijk doordat uw website bij iedere wijziging die u aanbrengt wereldwijd gepubliceerd wordt. Ook voor uw internationale klanten een goede ervaring op uw website!
+    Daarnaast zorgt Netlify voor een bloedsnelle gebruikerservaring, en dat wereldwijd. Dit wordt mogelijk doordat uw website bij iedere wijziging die u aanbrengt wereldwijd gepubliceerd wordt. Ook voor uw internationale klanten een goede ervaring op uw website!
   text2: >-
     Een mooie en snelle website is de manier om uw klanten van een goede eerste
-    indruk te voorzien. Een goede ervaring op uw website verhoogt de kans om
-    zaken te kunnen doen aanzienlijk. 
+    indruk te voorzien. Een goede gebruikerservaring op uw website verhoogt de
+    kans om zaken te kunnen doen aanzienlijk. 
 
 
     Een goede website is als een mooie winkeletalage of een elegant bedrijfspand: het zet de toon en geeft uw klant gelijk een eerste indruk van uw bedrijf. Die eerste indruk is vaak leidend in de beslissing van klanten om tot een keuze te komen.
