@@ -7,6 +7,8 @@ import Breadcrumb from '../components/Breadcrumb'
 import ServiceDetails from '../components/ServiceDetails'
 import ContactTrydo from '../components/ContactTrydo'
 
+// test
+
 export const ContentPageTemplate = ({
     title, breadcrumb, serviceDetails, contact
 }) => (

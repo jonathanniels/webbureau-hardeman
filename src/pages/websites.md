@@ -4,7 +4,7 @@ path: /websites
 title: Webbureau Hardeman - Moderne websites
 breadcrumb:
   heading: Moderne websites
-  description: Tijd voor een moderne nieuwe website! test123
+  description: Tijd voor een moderne nieuwe website!
   image: /img/home-jumbotron.jpg
 serviceDetails:
   text1: >-
