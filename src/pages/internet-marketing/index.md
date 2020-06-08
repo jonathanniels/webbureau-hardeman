@@ -8,7 +8,7 @@ breadcrumb:
     voor te blijven kunt u niet meer uit de voeten met de website die uw neefje
     tien jaar geleden maakt geeft. Dat begrijpt Webbureau Hardeman als geen
     ander.
-  image: /img/home-jumbotron.jpg
+  image: /img/adobestock_301441618.jpeg
 serviceDetails:
   text1: |-
     Markdown gaat hier voor text 1.
@@ -35,5 +35,5 @@ contact:
   intro: Wilt u de concurrentie voorblijven met een nieuwe website of webshop?
     Wilt u nieuwe klanten bereiken of bestaande klanten terug laten komen? Stuur
     een bericht, vragen staat vrij. Webbureau Hardeman maakt graag kennis!
-  image: /img/home-jumbotron.jpg
+  image: /img/adobestock_340217470.jpeg
 ---
