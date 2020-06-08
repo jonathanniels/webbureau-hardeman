@@ -30,8 +30,8 @@ serviceDetails:
 
 
     Doorpraten over de mogelijkheden? Vraag een vrijblijvend adviesgesprek aan!
-  image1: /img/home-jumbotron.jpg
-  image2: /img/flavor_wheel.jpg
+  image1: /img/adobestock_220359742.jpeg
+  image2: /img/adobestock_75339665.jpeg
 contact:
   heading: Contact opnemen
   intro: Wilt u de concurrentie voorblijven met een nieuwe website of webshop?
