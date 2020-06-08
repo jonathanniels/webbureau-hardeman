@@ -5,7 +5,7 @@ title: Webbureau Hardeman - Moderne websites
 breadcrumb:
   heading: Moderne websites
   description: Tijd voor een moderne nieuwe website!
-  image: /img/home-jumbotron.jpg
+  image: /img/adobestock_301441618.jpeg
 serviceDetails:
   text1: >-
     Het is t[ijd voor een nieuwe website die modern oogt en goed werkt op
@@ -37,5 +37,5 @@ contact:
   intro: Wilt u de concurrentie voorblijven met een nieuwe website of webshop?
     Wilt u nieuwe klanten bereiken of bestaande klanten terug laten komen? Stuur
     een bericht, vragen staat vrij. Webbureau Hardeman maakt graag kennis!
-  image: /img/home-jumbotron.jpg
+  image: /img/adobestock_340217470.jpeg
 ---
