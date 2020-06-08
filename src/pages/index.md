@@ -28,11 +28,11 @@ about:
   headingRight: Webshop
   descriptionRight: Direct zaken doen met uw klanten via een webshop. U bent aan
     het juiste adres!
-  image: /img/adobestock_113156837_preview.jpeg
+  image: /img/adobestock_113156837.jpeg
 contact:
   heading: Contact opnemen
   intro: Wilt u de concurrentie voorblijven met een nieuwe website of webshop?
     Wilt u nieuwe klanten bereiken of bestaande klanten terug laten komen? Stuur
     een bericht, vragen staat vrij. Webbureau Hardeman maakt graag kennis!
-  image: /img/adobestock_330388554_preview.jpeg
+  image: /img/adobestock_340217470.jpeg
 ---
