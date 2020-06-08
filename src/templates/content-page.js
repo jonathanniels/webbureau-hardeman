@@ -52,8 +52,8 @@ ContentPage.propTypes = {
 export default ContentPage
 
 export const pageQuery = graphql`
-  query ContentPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "content-page" } }) {
+  query ContentPageTemplate($id: String!) {
+    markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
         breadcrumb {
