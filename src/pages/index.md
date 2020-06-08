@@ -28,7 +28,7 @@ about:
   headingRight: Webshop
   descriptionRight: Direct zaken doen met uw klanten via een webshop. U bent aan
     het juiste adres!
-  image: /img/home-jumbotron.jpg
+  image: /img/adobestock_113156837_preview.jpeg
 contact:
   heading: Contact opnemen
   intro: Wilt u de concurrentie voorblijven met een nieuwe website of webshop?
