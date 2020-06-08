@@ -3,31 +3,12 @@ templateKey: content-page
 path: /webshops
 title: Webbureau Hardeman - Webshops
 breadcrumb:
-  heading: Online en bij de tijd
-  description: Tijd voor een moderne nieuwe website of webshop! Om de concurrentie
-    voor te blijven kunt u niet meer uit de voeten met de website die uw neefje
-    tien jaar geleden maakt geeft. Dat begrijpt Webbureau Hardeman als geen
-    ander.
+  heading: Online verkopen
+  description: Verkoop uw producten in uw eigen webshop
   image: /img/home-jumbotron.jpg
 serviceDetails:
-  text1: |-
-    Markdown gaat hier voor text 1.
-
-    Volgende paragraaf.
-
-    * bullet 1
-    * bullet 2
-
-    Naar [websites](/websites)
-  text2: |-
-    Markdown gaat hier voor text 2.
-
-    Volgende paragraaf.
-
-    * bullet 1
-    * bullet 2
-
-    Naar [websites](/websites)
+  text1: Coming soon
+  text2: Comming soon
   image1: /img/home-jumbotron.jpg
   image2: /img/flavor_wheel.jpg
 contact:
