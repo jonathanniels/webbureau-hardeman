@@ -2,7 +2,7 @@
 templateKey: landing-creative
 title: Webbureau Hardeman
 payoff: Moderne websites en internetmarketing
-headerImage: /img/home-jumbotron.jpg
+headerImage: /img/adobestock_301441618.jpeg
 services:
   - heading: Websites
     description: Moderne nieuwe websites. Fantastische vormgeving en gemakkelijk onderhoud.
