@@ -37,14 +37,14 @@ const Footer = class extends React.Component {
                                             <div class="footer-widget">
                                                 <h4>Say Hello</h4>
                                                 <ul class="ft-link">
-                                                    <li><a href="mailto:jonathanniels@gmail.com">jonathanniels@gmail.com</a></li>
+                                                    <li><a href="mailto:contact@webbureau-hardeman.nl">contact@webbureau-hardeman.nl</a></li>
                                                 </ul>
 
                                                 <div class="social-share-inner">
                                                     <ul class="social-share social-style--2 d-flex justify-content-start liststyle mt--15">
-                                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                                        {/*<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>*/}
                                                         <li><a href="https://www.linkedin.com/company/webbureau-hardeman/"><i class="fab fa-linkedin-in"></i></a></li>
-                                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                                        {/*<li><a href="#"><i class="fab fa-twitter"></i></a></li>*/}
                                                     </ul>
                                                 </div>
                                             </div>
