@@ -3,7 +3,7 @@ templateKey: content-page
 path: /internet-marketing
 title: Webbureau Hardeman - Internetmarketing
 breadcrumb:
-  heading: Vindt klanten online
+  heading: Vind klanten online
   description: Vindt nieuwe klanten online en wordt gevonden door uw bestaande klanten.
   image: /img/adobestock_301441618.jpeg
 serviceDetails:
