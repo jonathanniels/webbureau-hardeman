@@ -17,7 +17,8 @@ const NavbarTrydo = class extends React.Component {
                     <div class="header-left">
                         <div class="logo">
                             <a href="/">
-                                {/*<img src="/assets/images/logo/logo.png" alt="Webbureau Hardeman" />*/}
+                                <img class="logo-1" style={{height: '60px'}} src="/assets/images/logo/logo-3-zwart-wit.svg" alt="Webbureau Hardeman" />
+                                <img class="logo-2" style={{height: '60px'}} src="/assets/images/logo/logo-3-wit-zwart.svg" alt="Webbureau Hardeman" />
                             </a>
                         </div>
                     </div>
