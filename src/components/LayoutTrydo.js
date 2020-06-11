@@ -47,6 +47,9 @@ const TemplateWrapper = ({ children }) => {
         <script src="/assets/js/vendor/contactform.js"></script>
         <script src="/assets/js/plugins/plugins.min.js"></script>
         <script src="/assets/js/main.js"></script>
+        <script src="/assets/js/ga.js"></script>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-67989015-2"></script>
     </div>
   )
 }
