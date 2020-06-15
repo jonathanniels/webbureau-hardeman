@@ -6,16 +6,16 @@ headerImage: /img/adobestock_301441618.jpeg
 services:
   - heading: Websites
     description: Moderne nieuwe websites. Fantastische vormgeving en gemakkelijk onderhoud.
-    icon: monitor
+    icon: Monitor
     link: /websites
   - heading: Webshops
     description: " Online zaken doen met behulp van Shopify. Verkoop direct aan uw klanten."
-    icon: shopping-cart
+    icon: ShoppingCart
     link: /webshops
   - heading: Online marketing
     description: Bereik bestaande en nieuwe klanten. Emailmarketing, social media en
       online advertenties.
-    icon: users
+    icon: Users
     link: /internet-marketing
 about:
   heading: Online en bij de tijd
