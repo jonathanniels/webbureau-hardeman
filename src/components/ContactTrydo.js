@@ -28,8 +28,13 @@ const ContactTrydo = ({ contact }) => (
                                 </label>
 
                                 <label>
-                                    <input type="text" name="subject" id="item03" placeholder="Onderwerp" />
+                                    <input type="text" name="email" id="item03" placeholder="Uw E-mailadres *" />
                                 </label>
+
+                                <label>
+                                    <input type="text" name="phone" id="item04" placeholder="Uw telefoonnummer *" />
+                                </label>
+
                                 <label>
                                     <textarea id="item04" name="message" placeholder="Uw vraag"></textarea>
                                 </label>
