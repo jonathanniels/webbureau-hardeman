@@ -1,4 +1,5 @@
 import React from 'react'
+import * as Icon from 'react-feather'
 import { Link } from 'gatsby'
 
 const NavbarTrydo = class extends React.Component {
@@ -34,13 +35,13 @@ const NavbarTrydo = class extends React.Component {
 
                         <div class="humberger-menu d-block d-lg-none pl--20">
                             <span class="menutrigger text-white">
-                                <i data-feather="menu"></i>
+                                <Icon.Menu />
                             </span>
                         </div>
 
                         <div class="close-menu d-block d-lg-none">
                             <span class="closeTrigger">
-                                <i data-feather="x"></i>
+                                <Icon.X />
                             </span>
                         </div>
                     </div>
