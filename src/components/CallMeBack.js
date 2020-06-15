@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-const ContactTrydo = ({ contact }) => (
+const CallMeBack = ({ contact }) => (
     <div class="rn-contact-area rn-section-gap bg_color--5" id="contact">
         <div class="contact-form--1">
             <div class="container">
@@ -14,8 +14,8 @@ const ContactTrydo = ({ contact }) => (
                             <p class="description">{contact.intro}</p>
                         </div>
                         <div class="form-wrapper">
-                            <form name="contact2" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-                              <input type="hidden" name="form-name" value="contact2" />
+                            <form name="callmeback" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+                              <input type="hidden" name="form-name" value="callmeback" />
                               <p class="hidden">
                                 <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
                               </p>
@@ -24,15 +24,7 @@ const ContactTrydo = ({ contact }) => (
                                 </label>
 
                                 <label>
-                                    <input type="text" name="email" id="item02" placeholder="Uw E-mailadres *" />
-                                </label>
-
-                                <label>
-                                    <input type="text" name="phone" id="item03" placeholder="Uw E-telefoonnummer *" />
-                                </label>
-
-                                <label>
-                                    <input type="text" name="subject" id="item04" placeholder="Onderwerp *" />
+                                    <input type="text" name="phone" id="item02" placeholder="Uw telefoonnummer *" />
                                 </label>
 
                                 <label>
@@ -58,7 +50,7 @@ const ContactTrydo = ({ contact }) => (
     </div>
 )
 
-ContactTrydo.propTypes = {
+CallMeBack.propTypes = {
   contact: PropTypes.shape({
       heading: PropTypes.string,
       intro: PropTypes.string,
@@ -66,4 +58,4 @@ ContactTrydo.propTypes = {
   })
 }
 
-export default ContactTrydo
+export default CallMeBack
