@@ -28,7 +28,7 @@ const ContactTrydo = ({ contact }) => (
                                 </label>
 
                                 <label>
-                                    <input type="text" name="phone" id="item03" placeholder="Uw E-telefoonnummer *" />
+                                    <input type="text" name="phone" id="item03" placeholder="Uw telefoonnummer *" />
                                 </label>
 
                                 <label>
