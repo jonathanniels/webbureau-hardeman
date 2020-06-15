@@ -6,7 +6,6 @@ Index All JS
 -----------------------
         01. Wow Active
         02. Counter Up
-        03. Feature Icon Activation
         04. Youtub Popup 
         05. Slick Activation            
         06. Paralax Window
@@ -38,12 +37,6 @@ jQuery(document).ready(function ($) {
         time: 1000
     });
 
-
-    /*----------------------------------
-        03. Feature Icon Activation  
-    --------------------------------------*/
-
-    feather.replace()
 
     /*--------------------------- 
     	04. Youtub Popup 
