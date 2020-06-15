@@ -24,13 +24,13 @@ const Footer = class extends React.Component {
 
                                         <div class="col-lg-6 col-sm-6 col-12">
                                             <div class="footer-widget">
-                                                <h4>Quick Link</h4>
+                                                <h4>Snel naar:</h4>
                                                 <ul class="ft-link">
-                                                    <li><a href="#portfolio">Work</a></li>
-                                                    <li><a href="#about">About</a></li>
-                                                    <li><a href="#contact">Let's Talk</a></li>
+                                                    <li><a href="/callmeback">Bel mij terug</a></li>
+                                                    <li><a href="/">Over Webbureau Hardman</a></li>
+                                                    <li><a href="/#contact">Contactformulier</a></li>
                                                 </ul>
-                                            </div>
+                                            </div> s
                                         </div>
 
                                         <div class="col-lg-6 col-sm-6 col-12 mt_mobile--30">
