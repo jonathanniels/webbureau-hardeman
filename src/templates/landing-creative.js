@@ -67,7 +67,7 @@ export const pageQuery = graphql`
         payoff
         headerImage {
           childImageSharp {
-            fluid(maxWidth: 1920, quality: 100) {
+            fluid(maxWidth: 1920, quality: 86) {
               ...GatsbyImageSharpFluid
             }
           }
@@ -83,7 +83,7 @@ export const pageQuery = graphql`
             intro
             image {
               childImageSharp {
-                fluid(maxWidth: 2048, quality: 100) {
+                fluid(maxWidth: 2048, quality: 86) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -98,7 +98,7 @@ export const pageQuery = graphql`
             intro
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 86) {
                   ...GatsbyImageSharpFluid
                 }
               }

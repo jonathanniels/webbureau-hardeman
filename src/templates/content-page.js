@@ -61,7 +61,7 @@ export const pageQuery = graphql`
             description
             image {
               childImageSharp {
-                fluid(maxWidth: 2048, quality: 100) {
+                fluid(maxWidth: 2048, quality: 86) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -71,7 +71,7 @@ export const pageQuery = graphql`
           text1
           image1 {
             childImageSharp {
-              fluid(maxWidth: 2048, quality: 100) {
+              fluid(maxWidth: 2048, quality: 86) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -79,7 +79,7 @@ export const pageQuery = graphql`
           text2
           image2 {
             childImageSharp {
-              fluid(maxWidth: 2048, quality: 100) {
+              fluid(maxWidth: 2048, quality: 86) {
                 ...GatsbyImageSharpFluid
               }
             }
@@ -90,7 +90,7 @@ export const pageQuery = graphql`
             intro
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 86) {
                   ...GatsbyImageSharpFluid
                 }
               }
