@@ -4,6 +4,12 @@ import { Helmet } from 'react-helmet'
 import NavbarTrydo from '../components/NavbarTrydo'
 import FooterTrydo from '../components/FooterTrydo'
 
+//import './all.sass'
+import '../../static/assets/css/style.min.css'
+import '../../static/assets/css/plugins/plugins.min.css'
+import '../../static/assets/css/vendor/bootstrap.min.css'
+import '../../static/assets/css/vendor/fontawesome.css'
+
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
@@ -22,12 +28,6 @@ const TemplateWrapper = ({ children }) => {
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
         <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico" />
-
-        <link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css" />
-        <link rel="stylesheet" href="/assets/css/vendor/fontawesome.css" />
-        <link rel="stylesheet" href="/assets/css/vendor/lightbox.css" />
-        <link rel="stylesheet" href="/assets/css/plugins/plugins.css" />
-        <link rel="stylesheet" href="/assets/css/style.css" />
 
         <body class="position-relative spybody" data-spy="scroll" data-target=".navbar-example2" data-offset="150" />
       </Helmet>

@@ -11,5 +11,7 @@ CMS.registerMediaLibrary(cloudinary)
 
 CMS.registerPreviewTemplate('landing-creative', LandingCreativePagePreview)
 CMS.registerPreviewTemplate('index', LandingCreativePagePreview) // Let's give this a try
-CMS.registerPreviewTemplate('content-page', ContentPagePreview)
+CMS.registerPreviewTemplate('websites', ContentPagePreview)
+CMS.registerPreviewTemplate('webshops', ContentPagePreview)
+CMS.registerPreviewTemplate('internet-marketing', ContentPagePreview)
 CMS.registerPreviewTemplate('callmeback', CallMeBackPagePreview)
