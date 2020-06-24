@@ -5,10 +5,10 @@ import NavbarTrydo from '../components/NavbarTrydo'
 import FooterTrydo from '../components/FooterTrydo'
 
 //import './all.sass'
-import '../../static/assets/css/style.min.css'
-import '../../static/assets/css/plugins/plugins.min.css'
 import '../../static/assets/css/vendor/bootstrap.min.css'
+import '../../static/assets/css/plugins/plugins.min.css'
 import '../../static/assets/css/vendor/fontawesome.css'
+import '../../static/assets/css/style.min.css'
 
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
